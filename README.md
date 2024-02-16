@@ -1,2 +1,2 @@
 # Recommendation_Using_Big_Data_Technologies
-Personalized Media Content Recommendation Using Big Data Technologies
+Main Project: Personalized Media Content Recommendation Using Big Data Technologies
